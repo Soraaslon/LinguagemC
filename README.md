@@ -1,5 +1,5 @@
 # Linguagem C++ - (LG1)
-<hr>
+
 <p>Esses materias e exercícios foram desenvolvidos na disciplina de Lógica 1, do 1° ano do técnico de informática do IFSP</p>
 
 <ul style="list-style-type:circle;">
