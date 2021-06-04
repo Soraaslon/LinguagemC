@@ -3,6 +3,6 @@
 
 <hr>
 <ul style="list-style-type:circle;">
-     <li><a href="">Feito por: José Roberto Claudino Ferreira</a></li>
+     <li>Feito por: José Roberto Claudino Ferreira</li>
      <li>Linkedin: https://www.linkedin.com/in/josé-roberto-claudino-ferreira-b13076212/</li>
 </ul>
